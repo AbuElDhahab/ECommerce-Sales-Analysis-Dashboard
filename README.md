@@ -15,17 +15,17 @@ The analysis is segmented into three dedicated dashboards, each answering a key 
 ### 1. Sales Dashboard - "What is happening?"
 This dashboard provides a high-level overview of the overall sales performance, focusing on key metrics like total revenue, regional performance, and top-selling product categories.
 
-![Sales Dashboard](./01-sales-dashboard.png)
+![Sales Dashboard](./Sales-Dashboard.png)
 
 ### 2. Profitability Dashboard - "How efficient are we?"
 Here, the focus shifts from revenue to efficiency. This dashboard analyzes **Profit Margin** to identify the most profitable regions, product categories, and cities, offering a clearer view of business health.
 
-![Profitability Dashboard](./02-profitability-dashboard.png)
+![Profitability Dashboard](./Profit-Dashboard.png)
 
 ### 3. Customer & Quantity Dashboard - "Who are our customers?"
 This dashboard dives into customer purchasing patterns. It introduces metrics like **Average Order Value (AOV)** and **Quantity per Order** to identify high-value customers and understand buying habits.
 
-![Customer & Quantity Dashboard](./03-customer-dashboard.png)
+![Customer & Quantity Dashboard](./Quantity-Dashboard.png)
 
 ---
 
@@ -47,15 +47,15 @@ This dashboard dives into customer purchasing patterns. It introduces metrics li
 
 ## 🛠️ Tools Used
 
-* **Data Analysis:** Microsoft Excel / Python (Pandas)
-* **Data Visualization:** Microsoft Power BI / Tableau
+* **Data Analysis:** Power BI / DAX
+* **Data Visualization:** Power BI
 * **Design:** Figma (for the background elements)
 
 ---
 
 ## 📁 Project Files
 
-* **Power BI/Tableau File:** `YourFileName.pbix`
+* **Power BI** `E-Commerce Dashboard.pbix`
 * **Dataset:** `ecommerce_data.csv`
 
 Feel free to download the source file to explore the interactive dashboard and the data model.
