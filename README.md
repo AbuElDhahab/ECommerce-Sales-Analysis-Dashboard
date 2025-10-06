@@ -56,6 +56,6 @@ This dashboard dives into customer purchasing patterns. It introduces metrics li
 ## 📁 Project Files
 
 * **Power BI** `E-Commerce Dashboard.pbix`
-* **Dataset:** `ecommerce_data.csv`
+* **Dataset:** `Ecommerce_Sales_Data_2024_2025.csv`
 
 Feel free to download the source file to explore the interactive dashboard and the data model.
